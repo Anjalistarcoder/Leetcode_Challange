@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0084-largest-rectangle-in-histogram) |
 ## Stack
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0138-copy-list-with-random-pointer) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
