@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0039-combination-sum) |
+| [0056-merge-intervals](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
 ## Stack
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0901-online-stock-span) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
