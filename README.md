@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0039-combination-sum) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
