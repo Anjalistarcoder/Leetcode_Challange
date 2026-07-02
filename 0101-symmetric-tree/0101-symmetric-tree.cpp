@@ -11,17 +11,24 @@
  */
 class Solution {
 public:
-    bool f(TreeNode* r1,TreeNode* r2){
-        if (r1==NULL && r2==NULL) return true;
-        if (r1==NULL || r2==NULL) return false;
-        int a=r1->val;
-        int b=r2->val;
-        if (a!=b) return false;
-        return f(r1->left,r2->right) && f(r1->right,r2->left);
+
+    bool mirror(TreeNode* left, TreeNode* right)
+    {
+        if(left == NULL && right == NULL)
+            return true;
+        if(left == NULL || right == NULL)
+            return false;
+        if(left->val != right->val)
+            return false;
+        return mirror(left->left, right->right) &&
+               mirror(left->right, right->left);
     }
-    bool isSymmetric(TreeNode* root) {
-        if (root==NULL) return true;
-        return f(root->left,root->right);
-        
+
+    bool isSymmetric(TreeNode* root)
+    {
+        if(root == NULL)
+            return true;
+
+        return mirror(root->left, root->right);
     }
 };
