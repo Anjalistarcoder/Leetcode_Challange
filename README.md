@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
+| [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
 | [0735-asteroid-collision](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0907-sum-of-subarray-minimums) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -175,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0207-course-schedule) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
