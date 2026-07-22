@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
+| [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
 | [0733-flood-fill](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0735-asteroid-collision) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0138-copy-list-with-random-pointer) |
+| [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
