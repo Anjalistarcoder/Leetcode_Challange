@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0130-surrounded-regions) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0216-combination-sum-iii) |
 ## Binary Search
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0100-same-tree) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0402-remove-k-digits) |
 ## Divide and Conquer
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0733-flood-fill) |
