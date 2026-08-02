@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0130-surrounded-regions) |
 | [0216-combination-sum-iii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0199-binary-tree-right-side-view) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0199-binary-tree-right-side-view) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0493-reverse-pairs](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
