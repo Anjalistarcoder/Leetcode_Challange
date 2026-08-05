@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0493-reverse-pairs) |
+| [0542-01-matrix](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0907-sum-of-subarray-minimums) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0785-is-graph-bipartite) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1020-number-of-enclaves) |
