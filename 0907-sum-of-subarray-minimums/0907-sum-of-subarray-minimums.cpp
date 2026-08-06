@@ -1,41 +1,52 @@
-#include <vector>
-#include <stack>
-
-using namespace std;
-
 class Solution {
 public:
     int sumSubarrayMins(vector<int>& arr) {
         int n = arr.size();
-        long long total_sum = 0;
-        long long MOD = 1e9 + 7;
-        
-        // Stack will store indices of the elements
+        long long ans = 0;
+        const int MOD = 1e9 + 7;
+
+        vector<int> left(n), right(n);
         stack<int> st;
-        
-        // We iterate from 0 to n inclusive to process remaining elements in the stack at the end
-        for (int i = 0; i <= n; ++i) {
-            // Use a dummy value of 0 at the end (i == n) to flush out all remaining elements
-            int current_val = (i == n) ? 0 : arr[i];
-            
-            while (!st.empty() && arr[st.top()] > current_val) {
-                int mid = st.top();
+
+        // Find Previous Less Element
+        for (int i = 0; i < n; i++) {
+            while (!st.empty() && arr[st.top()] > arr[i]) {
                 st.pop();
-                
-                // Determine the boundaries
-                int left_boundary = st.empty() ? -1 : st.top();
-                int right_boundary = i;
-                
-                // Count of subarrays where arr[mid] is the minimum
-                long long left_count = mid - left_boundary;
-                long long right_count = right_boundary - mid;
-                
-                // Add to total contribution
-                total_sum = (total_sum + left_count * right_count % MOD * arr[mid] % MOD) % MOD;
             }
+
+            if (st.empty())
+                left[i] = -1;
+            else
+                left[i] = st.top();
+
             st.push(i);
         }
-        
-        return total_sum;
+
+        while (!st.empty())
+            st.pop();
+
+        // Find Next Less or Equal Element
+        for (int i = n - 1; i >= 0; i--) {
+            while (!st.empty() && arr[st.top()] >= arr[i]) {
+                st.pop();
+            }
+
+            if (st.empty())
+                right[i] = n;
+            else
+                right[i] = st.top();
+
+            st.push(i);
+        }
+
+        // Calculate contribution of every element
+        for (int i = 0; i < n; i++) {
+            long long leftCount = i - left[i];
+            long long rightCount = right[i] - i;
+
+            ans = (ans + arr[i] * leftCount * rightCount) % MOD;
+        }
+
+        return ans;
     }
 };
