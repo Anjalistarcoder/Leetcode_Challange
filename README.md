@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
@@ -286,4 +288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0785-is-graph-bipartite) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
