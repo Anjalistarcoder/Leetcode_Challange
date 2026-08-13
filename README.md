@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0402-remove-k-digits) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
