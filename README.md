@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0733-flood-fill) |
