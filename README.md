@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
@@ -304,8 +306,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0075-sort-colors) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
