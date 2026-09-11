@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0039-combination-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
