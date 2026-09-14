@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0402-remove-k-digits) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
