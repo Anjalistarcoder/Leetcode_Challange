@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0493-reverse-pairs) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0493-reverse-pairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0349-intersection-of-two-arrays) |
 ## Manacher
 |  |
 | ------- |
