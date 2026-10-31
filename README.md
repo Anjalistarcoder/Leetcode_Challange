@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0328-odd-even-linked-list) |
 ## Backtracking
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0349-intersection-of-two-arrays) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0493-reverse-pairs) |
 ## Matrix
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0349-intersection-of-two-arrays) |
 ## Manacher
 |  |
