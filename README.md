@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0229-majority-element-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0907-sum-of-subarray-minimums) |
