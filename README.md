@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2953-count-complete-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/2953-count-complete-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1903-largest-odd-number-in-string) |
+| [2953-count-complete-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/2953-count-complete-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0021-merge-two-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [2953-count-complete-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/2953-count-complete-substrings) |
 <!---LeetCode Topics End-->
