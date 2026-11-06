@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2953-count-complete-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/2953-count-complete-substrings) |
 ## Linked List
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0560-subarray-sum-equals-k) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0029-divide-two-integers) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Union-Find
 |  |
 | ------- |
