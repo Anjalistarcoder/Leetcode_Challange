@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0622-design-circular-queue) |
 | [0733-flood-fill](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0907-sum-of-subarray-minimums) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0622-design-circular-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0173-binary-search-tree-iterator) |
+| [0622-design-circular-queue](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -387,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2953-count-complete-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/2953-count-complete-substrings) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
