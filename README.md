@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0216-combination-sum-iii) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0542-01-matrix) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/0402-remove-k-digits) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjalistarcoder/Leetcode_Challange/tree/master/1781-sum-of-beauty-of-all-substrings) |
