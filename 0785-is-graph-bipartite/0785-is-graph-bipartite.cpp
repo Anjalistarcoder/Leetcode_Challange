@@ -1,39 +1,36 @@
+
 class Solution {
 public:
     bool isBipartite(vector<vector<int>>& graph) {
         
         int n = graph.size();
-    
+        
         vector<int> color(n, -1);
-    
-        for (int i = 0; i < n; i++) {
+        
+        for(int i = 0; i < n; i++) {
             
-            if (color[i] != -1)
-                continue;
-    
-            queue<int> q;
-            q.push(i);
-            color[i] = 0;
-            
-            while (!q.empty()) {
+            if(color[i] == -1) {
                 
-                int node = q.front();
-                q.pop();
+                queue<int> q;
+                q.push(i);
+                color[i] = 0;
                 
-                // Visit all neighbours
-                for (int neighbour : graph[node]) {
+                while(!q.empty()) {
                     
-                    // If neighbour is not colored
-                    if (color[neighbour] == -1) {
+                    int node = q.front();
+                    q.pop();
+                    
+                    for(auto it : graph[node]) {
                         
-                        // Give opposite color
-                        color[neighbour] = 1 - color[node];
-                        q.push(neighbour);
-                    }
-                    
-                    // If both have same color
-                    else if (color[neighbour] == color[node]) {
-                        return false;
+                        if(color[it] == -1) {
+                            
+                            color[it] = 1 - color[node];
+                            q.push(it);
+                        }
+                        
+                        else if(color[it] == color[node]) {
+                            return false;
+                        }
                     }
                 }
             }
